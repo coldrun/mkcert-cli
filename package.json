@@ -36,6 +36,7 @@
     "publish:minor": "npx -y np minor"
   },
   "dependencies": {
+    "@octokit/rest": "^21.0.2",
     "minimist": "^1.2.7",
     "picocolors": "^1.0.0",
     "semver-compare": "^1.0.0"

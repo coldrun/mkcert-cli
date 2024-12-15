@@ -123,7 +123,6 @@ export class Mkcert {
       return undefined;
     }
 
-    console.log('getSourceInfo', sourceInfo);
     return sourceInfo;
   }
   async initMkcert() {
